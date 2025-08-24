@@ -16,14 +16,6 @@ this repository serves as the central hub for internal resources, guides, and me
 
 ---
 
-## notable resources
-
-- roblox-external · c++17 framework for external roblox tools  
-- gpt-api · python api for ai applications  
-- api · backend services  
-
----
-
 ## guidelines
 
 - maintain security and confidentiality for all private repositories  
